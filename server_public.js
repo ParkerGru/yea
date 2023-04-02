@@ -19,7 +19,7 @@ server.supported_game_versions = [ //All versions of the game that the server ca
 	"1.4.0",
 ];
 server.server_keys = { //Any packets that don't have the correct key will be completely ignored.
-	random_matchmaking: "108356287429824",
+	random_matchmaking: "H1UIP87",
 	private_lobby: "HW3LXPtjvp",
 };
 server.random_matchmaking_limit = 2; //How many players can be in the array at once
